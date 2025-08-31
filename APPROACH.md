@@ -1,0 +1,7 @@
+The goal of this project was to build a Smart Recipe Generator that helps users discover recipes based on the ingredients they already have. My approach was to focus on a clean, user-friendly design while ensuring the core features work reliably.
+
+I started by creating a small recipe database with at least 20 recipes. Each recipe includes ingredients, step-by-step instructions, nutritional details, and dietary tags such as vegetarian, vegan, or gluten-free. To make the app more helpful, I added filters for difficulty, cooking time, and dietary preferences, so users can quickly find what suits them.
+
+For ingredient input, users can either type items manually or try the mock image upload feature, which simulates how an AI service would recognize ingredients from a photo. Once the input is provided, a matching algorithm compares the user’s ingredients against the recipe database and suggests the closest matches. Missing ingredients are also shown with possible substitutions.
+
+I also included the ability to rate recipes and save favorites, which feeds into personalized recommendations. The entire app is mobile-responsive, deployed on Vercel for easy access, and designed with intuitive navigation. Overall, my focus was on practical functionality, good UX, and clean code.
