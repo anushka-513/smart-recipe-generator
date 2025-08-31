@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Bolognese",
+    "ingredients": ["400g spaghetti", "500g ground beef", "1 onion", "3 cloves garlic", "600ml tomato sauce", "1 tbsp olive oil", "1 tsp salt", "0.5 tsp black pepper"],
+    "steps": ["Cook spaghetti in salted water.", "Sauté onion and garlic in olive oil.", "Brown the beef, season, add tomato sauce and simmer.", "Combine with pasta and serve."],
+    "nutrition": { "calories": 620, "protein": 30, "carbs": 78, "fat": 20 },
+    "time": 40,
+    "difficulty": "Medium",
+    "diet": "Non-Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Veggie Stir-Fry",
+    "ingredients": ["1 cup broccoli", "1 cup carrots", "1 bell pepper", "2 tbsp soy sauce", "1 tbsp sesame oil", "1 tsp ginger", "2 cloves garlic"],
+    "steps": ["Chop vegetables.", "Heat sesame oil, add garlic and ginger.", "Add vegetables and stir-fry for 5–7 minutes.", "Add soy sauce, toss, and serve hot."],
+    "nutrition": { "calories": 280, "protein": 10, "carbs": 32, "fat": 12 },
+    "time": 20,
+    "difficulty": "Easy",
+    "diet": "Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1599297915779-0dadbd376d49?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Chicken Caesar Salad",
+    "ingredients": ["200g chicken breast", "1 romaine lettuce", "50g parmesan cheese", "100g croutons", "3 tbsp Caesar dressing"],
+    "steps": ["Grill chicken breast.", "Chop lettuce.", "Combine ingredients with dressing.", "Toss and serve."],
+    "nutrition": { "calories": 420, "protein": 32, "carbs": 18, "fat": 24 },
+    "time": 25,
+    "difficulty": "Easy",
+    "diet": "Non-Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1582034986517-30d163aa1da9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Vegan Buddha Bowl",
+    "ingredients": ["1 cup quinoa", "1 cup chickpeas", "1 cup spinach", "1 carrot", "1 avocado", "2 tbsp tahini sauce"],
+    "steps": ["Cook quinoa.", "Roast chickpeas.", "Chop veggies.", "Assemble bowl with tahini."],
+    "nutrition": { "calories": 520, "protein": 18, "carbs": 65, "fat": 20 },
+    "time": 30,
+    "difficulty": "Medium",
+    "diet": "Vegan",
+    "image_url": "https://images.unsplash.com/photo-1675092789086-4bd2b93ffc69?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Gluten-Free Pancakes",
+    "ingredients": ["1 cup gluten-free flour", "1 egg", "1 cup milk", "1 tbsp sugar", "1 tsp baking powder"],
+    "steps": ["Mix ingredients.", "Pour batter on skillet.", "Flip and cook both sides.", "Serve with syrup."],
+    "nutrition": { "calories": 380, "protein": 12, "carbs": 58, "fat": 10 },
+    "time": 30,
+    "difficulty": "Easy",
+    "diet": "Gluten-Free",
+    "image_url": "https://images.unsplash.com/photo-1627876680112-4071fd0e50f6?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Beef Tacos",
+    "ingredients": ["4 taco shells", "200g ground beef", "1 onion", "1 tomato", "50g cheese", "2 tbsp salsa"],
+    "steps": ["Cook beef with onion.", "Fill taco shells with beef, tomato, cheese, salsa.", "Serve warm."],
+    "nutrition": { "calories": 540, "protein": 28, "carbs": 40, "fat": 30 },
+    "time": 25,
+    "difficulty": "Easy",
+    "diet": "Non-Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1640983743761-4f0e0204bc58?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Avocado Toast",
+    "ingredients": ["2 slices whole grain bread", "1 avocado", "1 tsp lemon juice", "Salt", "Pepper"],
+    "steps": ["Toast bread.", "Mash avocado with lemon juice, salt, pepper.", "Spread on toast."],
+    "nutrition": { "calories": 260, "protein": 6, "carbs": 28, "fat": 14 },
+    "time": 10,
+    "difficulty": "Easy",
+    "diet": "Vegan",
+    "image_url": "https://images.unsplash.com/photo-1687276287139-88f7333c8ca4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Margarita Pizza",
+    "ingredients": ["200g pizza dough", "100g tomato sauce", "100g mozzarella", "Basil leaves"],
+    "steps": ["Spread sauce on dough.", "Add mozzarella.", "Bake in oven 12 min.", "Top with basil."],
+    "nutrition": { "calories": 700, "protein": 22, "carbs": 90, "fat": 22 },
+    "time": 20,
+    "difficulty": "Medium",
+    "diet": "Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Grilled Salmon",
+    "ingredients": ["200g salmon fillet", "1 lemon", "1 tbsp olive oil", "Salt", "Pepper"],
+    "steps": ["Season salmon.", "Grill until golden.", "Squeeze lemon and serve."],
+    "nutrition": { "calories": 450, "protein": 34, "carbs": 4, "fat": 30 },
+    "time": 20,
+    "difficulty": "Medium",
+    "diet": "Non-Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Fruit Smoothie",
+    "ingredients": ["1 banana", "1 cup strawberries", "1 cup milk", "1 tbsp honey"],
+    "steps": ["Blend all ingredients.", "Serve chilled."],
+    "nutrition": { "calories": 210, "protein": 8, "carbs": 40, "fat": 4 },
+    "time": 5,
+    "difficulty": "Easy",
+    "diet": "Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1589733955941-5eeaf752f6dd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Omelette",
+    "ingredients": ["2 eggs", "1 onion", "1 tomato", "1 tbsp oil", "Salt", "Pepper"],
+    "steps": ["Beat eggs.", "Cook onion & tomato.", "Pour eggs and cook until set."],
+    "nutrition": { "calories": 250, "protein": 14, "carbs": 6, "fat": 18 },
+    "time": 10,
+    "difficulty": "Easy",
+    "diet": "Non-Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1510693206972-df098062cb71?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 12,
+    "title": "Pancit Noodles",
+    "ingredients": ["200g rice noodles", "1 carrot", "1 onion", "Soy sauce", "Garlic", "Cabbage"],
+    "steps": ["Soak noodles.", "Stir-fry vegetables.", "Add noodles and soy sauce.", "Cook 5 more minutes."],
+    "nutrition": { "calories": 380, "protein": 10, "carbs": 70, "fat": 8 },
+    "time": 25,
+    "difficulty": "Medium",
+    "diet": "Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1679279726940-be5ce80c632c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 13,
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": ["2 bread slices", "50g cheddar cheese", "1 tbsp butter"],
+    "steps": ["Butter bread.", "Add cheese.", "Grill until golden brown."],
+    "nutrition": { "calories": 310, "protein": 12, "carbs": 28, "fat": 18 },
+    "time": 8,
+    "difficulty": "Easy",
+    "diet": "Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1528736235302-52922df5c122?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 14,
+    "title": "Falafel Wrap",
+    "ingredients": ["2 pita breads", "6 falafel balls", "Lettuce", "Tomato", "Tahini sauce"],
+    "steps": ["Warm pita.", "Fill with falafel, veggies, and tahini.", "Wrap and serve."],
+    "nutrition": { "calories": 480, "protein": 16, "carbs": 60, "fat": 18 },
+    "time": 15,
+    "difficulty": "Easy",
+    "diet": "Vegan",
+    "image_url": "https://images.unsplash.com/photo-1649138783888-0ec9c3ec2f21?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 15,
+    "title": "Tomato Soup",
+    "ingredients": ["4 tomatoes", "1 onion", "2 cloves garlic", "500ml vegetable broth", "1 tbsp olive oil"],
+    "steps": ["Sauté onion & garlic.", "Add tomatoes & broth.", "Simmer & blend.", "Serve hot."],
+    "nutrition": { "calories": 150, "protein": 4, "carbs": 20, "fat": 6 },
+    "time": 25,
+    "difficulty": "Easy",
+    "diet": "Vegan",
+    "image_url": "https://images.unsplash.com/photo-1673021889619-0677506b56ac?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 16,
+    "title": "Chicken Curry",
+    "ingredients": ["300g chicken", "2 onions", "2 tomatoes", "2 tbsp curry paste", "1 cup coconut milk"],
+    "steps": ["Cook onions.", "Add chicken & brown.", "Add tomatoes, curry paste, coconut milk.", "Simmer until thick."],
+    "nutrition": { "calories": 600, "protein": 35, "carbs": 20, "fat": 38 },
+    "time": 40,
+    "difficulty": "Medium",
+    "diet": "Non-Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 17,
+    "title": "Greek Salad",
+    "ingredients": ["1 cucumber", "2 tomatoes", "1 onion", "100g feta cheese", "Olives", "Olive oil"],
+    "steps": ["Chop vegetables.", "Mix with olives & feta.", "Drizzle olive oil."],
+    "nutrition": { "calories": 200, "protein": 6, "carbs": 12, "fat": 14 },
+    "time": 10,
+    "difficulty": "Easy",
+    "diet": "Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1599021419847-d8a7a6aba5b4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 18,
+    "title": "Egg Fried Rice",
+    "ingredients": ["1 cup rice", "2 eggs", "1 onion", "2 tbsp soy sauce", "1 tbsp oil"],
+    "steps": ["Cook rice.", "Scramble eggs.", "Stir-fry onion, add rice & eggs.", "Add soy sauce and serve."],
+    "nutrition": { "calories": 390, "protein": 14, "carbs": 60, "fat": 12 },
+    "time": 20,
+    "difficulty": "Easy",
+    "diet": "Non-Vegetarian",
+    "image_url": "https://images.unsplash.com/photo-1687020836451-41977907509e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 19,
+    "title": "Lentil Soup",
+    "ingredients": ["1 cup lentils", "1 onion", "2 carrots", "2 tomatoes", "500ml vegetable broth"],
+    "steps": ["Sauté onion & carrots.", "Add lentils, tomatoes, broth.", "Simmer until lentils are soft.", "Serve hot."],
+    "nutrition": { "calories": 280, "protein": 16, "carbs": 40, "fat": 6 },
+    "time": 35,
+    "difficulty": "Medium",
+    "diet": "Vegan",
+    "image_url": "https://images.unsplash.com/photo-1552298013-de2af4b94854?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 20,
+    "title": "Banana Pancakes",
+    "ingredients": ["2 bananas", "2 eggs", "1 cup oats", "1 tsp baking powder"],
+    "steps": ["Mash bananas.", "Mix eggs, oats, baking powder.", "Cook on skillet until golden.", "Serve with honey."],
+    "nutrition": { "calories": 320, "protein": 14, "carbs": 45, "fat": 8 },
+    "time": 20,
+    "difficulty": "Easy",
+    "diet": "Gluten-Free",
+    "image_url": "https://images.unsplash.com/photo-1606149186228-4e5ac94a742e?auto=format&fit=crop&w=800&q=80"
+  }
+]
